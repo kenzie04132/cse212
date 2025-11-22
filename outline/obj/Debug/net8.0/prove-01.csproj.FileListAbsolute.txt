@@ -1,0 +1,12 @@
+/Users/kenziejasmine/RiderProjects/f25-prove-01-kenzie04132/prove-01/bin/Debug/net8.0/prove-01.deps.json
+/Users/kenziejasmine/RiderProjects/f25-prove-01-kenzie04132/prove-01/bin/Debug/net8.0/prove-01.dll
+/Users/kenziejasmine/RiderProjects/f25-prove-01-kenzie04132/prove-01/bin/Debug/net8.0/prove-01.pdb
+/Users/kenziejasmine/RiderProjects/f25-prove-01-kenzie04132/prove-01/obj/Debug/net8.0/prove-01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenziejasmine/RiderProjects/f25-prove-01-kenzie04132/prove-01/obj/Debug/net8.0/prove-01.AssemblyInfoInputs.cache
+/Users/kenziejasmine/RiderProjects/f25-prove-01-kenzie04132/prove-01/obj/Debug/net8.0/prove-01.AssemblyInfo.cs
+/Users/kenziejasmine/RiderProjects/f25-prove-01-kenzie04132/prove-01/obj/Debug/net8.0/prove-01.csproj.CoreCompileInputs.cache
+/Users/kenziejasmine/RiderProjects/f25-prove-01-kenzie04132/prove-01/obj/Debug/net8.0/prove-01.sourcelink.json
+/Users/kenziejasmine/RiderProjects/f25-prove-01-kenzie04132/prove-01/obj/Debug/net8.0/prove-01.dll
+/Users/kenziejasmine/RiderProjects/f25-prove-01-kenzie04132/prove-01/obj/Debug/net8.0/refint/prove-01.dll
+/Users/kenziejasmine/RiderProjects/f25-prove-01-kenzie04132/prove-01/obj/Debug/net8.0/prove-01.pdb
+/Users/kenziejasmine/RiderProjects/f25-prove-01-kenzie04132/prove-01/obj/Debug/net8.0/ref/prove-01.dll
